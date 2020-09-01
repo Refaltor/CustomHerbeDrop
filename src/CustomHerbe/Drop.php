@@ -67,4 +67,5 @@ $event->setDrops([Item::get($normal, 0, $amount1)]);
  }
 }
 }
+  }
 }
