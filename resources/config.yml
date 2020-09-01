@@ -1,0 +1,21 @@
+---
+version: 1.0
+#Ne Pas Toucher 
+#verifier si vous avez la bonne version de configuration!
+#si vous êtes pas a jour il se peu que le plugins fonctionne pas 
+
+
+#true / false pour activer ou désactiver la graine modifier en question (herbe..)
+
+herbe: true
+
+#normal = le drop normal / quotidien
+#montant = le nombre de drop a chaque cassage de l'herbe
+normal: 41
+montant: 3
+#rare = le drop rare configurable avec la chance
+rare: 2
+Montant: 7
+#une chance sur 5 d'avoir le drop rare (configurable)
+chance: 5
+...
